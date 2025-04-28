@@ -91,7 +91,6 @@ Special thanks to **ChatGPT** for assisting in planning, structuring, and debugg
 
 - 👤 **[PATEL SHIV]**
 - 📧 [patelshiv8448@gmail.com] 
-- 📱 [Your LinkedIn] (optional)
 
 ---
 
