@@ -93,9 +93,11 @@ Special thanks to **ChatGPT** for assisting in planning, structuring, and debugg
 - 📧 [patelshiv8448@gmail.com] 
 - 📱 [Your LinkedIn] (optional)
 
-📬 Connect with Me
-- GitHub:[patelShiv84](https://www.linkedin.com/in/patelshiv84?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- LinkedIn: [patelshiv84](https://github.com/patelshiv84)
+---
+
+##📬 Connect with Me
+- LinkedIn:[patelShiv84](https://www.linkedin.com/in/patelshiv84?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- GitHub: [patelshiv84](https://github.com/patelshiv84)
 
 ---
 
